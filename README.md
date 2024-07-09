@@ -28,10 +28,9 @@ The Black-Scholes Model is a cornerstone of modern financial theory, providing a
 To get started with the Advanced Option Pricing Models project, clone the repository to your local machine using the following command:
 Clone the repository to your local machine:
 
-git clone 
-cd Option-Pricing-Model
-git 
-cd Advanced-Option-Pricing-Models   
+1. git clone 
+2. cd Option-Pricing-Model
+3. git cd Advanced-Option-Pricing-Models   
 
  ## Compilation Instructions
 Compile the project by executing the make command in the root directory of the project:
